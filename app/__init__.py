@@ -23,6 +23,7 @@ class App:
     def start(self):
         # Register commands here
         self.load_plugins()
+        print(f'Commands Available: add, divide, email, exit, goodbye, greet, menu')
         print("Type 'exit' to exit.")
         while True:  #REPL Read, Evaluate, Print, Loop
             self.command_handler.execute_command(input(">>> ").strip())
