@@ -12,7 +12,7 @@ You need to explain and link to how you are using logging.
 You need to link to and explain how you are using try/catch / exceptions to illustrate "Look Before You Leap" (LBYL) and "Easier to Ask for Forgiveness than Permission" (EAFP)/
 Create a 3-5 minute video demonstration of using the calculator, highlighting its key features and functionalities. Link the video to the repository readme.1.
 
-All in video: 
+All in video: https://youtu.be/Xa6KBD6xr5c
 
 ## Project Setup
 
