@@ -17,7 +17,6 @@ output-format=colorized
 
 # Include a report at the end of the log
 reports=yes
-
 # Put a full report at the end of the file
 report-full=no
 
